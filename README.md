@@ -1,2 +1,2 @@
 # clear-signal
-A time series explainable early warning system. Starter protype 
+A time series explainable early warning system. Starter prototype. 
